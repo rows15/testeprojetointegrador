@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81IdScEcX2S.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Celular",
+      "price": 10.5,
+      "category_id": 2,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51y+xXlXPrL._AC_SX679_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Notebook",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51E+Wzu+6EL._AC_SX522_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tv Lg",
+      "price": 10.5,
+      "category_id": 4,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51E+Wzu+6EL._AC_SX522_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Notebook Acer",
+      "price": 10.5,
+      "category_id": 5,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51pIlgIyjZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Monitor",
+      "price": 10.5,
+      "category_id": 6,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/8169dvTyzsL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pc Gamer",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/31nt4iiUdlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 2,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oNweG3tiL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oNweG3tiL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 4,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61sqKxzSPoL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Celular",
+      "price": 10.5,
+      "category_id": 5,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51b0fG74oYL._AC_SX522_.jpg"
+    },
+    {
+      "body": "{\"title\":\"sd\",\"price\":\"asd\",\"category_id\":\"5\",\"description\":\"sdad\",\"image\":\"dsds\"}",
+      "headers": {
+        "Content-type": "application/json; charset=UTF-8"
+      },
+      "id": 12
+    },
+    {
+      "body": "{\"title\":\"Rola\",\"price\":\"RolaRolaRola\",\"category_id\":\"3\",\"description\":\"RolaRolaRolaRola\",\"image\":\"Rola\"}",
+      "headers": {
+        "Content-type": "application/json; charset=UTF-8"
+      },
+      "id": 13
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Celular & Smartphone"
+    },
+    {
+      "id": 2,
+      "name": "TV"
+    },
+    {
+      "id": 3,
+      "name": "Tablets, iPads e E-readers"
+    },
+    {
+      "id": 4,
+      "name": "Eletrodomésticos"
+    },
+    {
+      "id": 5,
+      "name": "Computadores"
+    },
+    {
+      "id": 6,
+      "name": "Teclados"
+    }
+  ],
+  "productDetails": [
+    {
+      "id": 1,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 4,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81IdScEcX2S.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Celular",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51y+xXlXPrL._AC_SX679_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Notebook",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51E+Wzu+6EL._AC_SX522_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tv Lg",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51E+Wzu+6EL._AC_SX522_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Notebook Acer",
+      "price": 10.5,
+      "category_id": 5,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51pIlgIyjZL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Monitor",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/8169dvTyzsL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pc Gamer",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/31nt4iiUdlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 5,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 4,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oNweG3tiL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61sqKxzSPoL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Celular",
+      "price": 10.5,
+      "category_id": 3,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/51b0fG74oYL._AC_SX522_.jpg"
+    }
+  ],
+  "productsCategory": [
+    {
+      "id": 1,
+      "name": "Celular & Smartphone",
+      "title": "tv",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81IdScEcX2S.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Pc Gamer A",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "AAA Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/31nt4iiUdlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pc Gamer B",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "BBB Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/31nt4iiUdlL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pc Gamer C",
+      "price": 10.5,
+      "category_id": 1,
+      "description": "CCC Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "image": "https://m.media-amazon.com/images/I/31nt4iiUdlL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ]
+}

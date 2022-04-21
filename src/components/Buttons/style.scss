@@ -1,0 +1,62 @@
+
+html{    //definição das cores de botões
+    
+    .swal2-confirm{
+        border: transparent;
+        padding: 10px;
+    }
+
+    .swal2-image{
+        object-fit: cover;
+        border-radius: 1rem;
+    }
+
+    .swal2-confirm,
+    .btn-success,
+    .btn-outline-success,
+    .btn-secondary{
+        font-size: 1rem;
+        border-radius: 10px;
+        // min-width: 170px;
+    }
+    
+    
+    .btn-outline-success, 
+    .btn-outline-success:focus{    
+        color: var(--green-dark);
+        border-color: var(--green-dark);
+        background-color: white;
+        &:hover{
+            background-color: rgba(#283618,0.9);
+            color: var(--bg-2);
+            border-color: transparent;
+        }
+    }
+    
+    .swal2-confirm,
+    .btn-success, 
+    .btn-success:focus{
+        color: var(--bg-2);
+        background-color: var(--green-dark);
+        border: none;
+        &:hover{
+            background-color: rgba(#283618,0.9);
+            color: var(--bg-2);
+            border-color: transparent;
+        }
+    }
+    
+    .btn-secondary, 
+    .btn-secondary:focus{
+        color: white;
+        background-color: var(--brown-dark);
+        border: none;
+        &:hover{
+            background-color: rgba(#A2531E,0.9);
+            color: var(--bg-2);
+            border-color: none;
+        }
+        
+    }
+
+}
